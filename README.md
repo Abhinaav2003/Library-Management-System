@@ -30,14 +30,10 @@ A **Java-based Library Management System** that simplifies the management of boo
 
 ```
 LibraryManagementSystem/
-│
-├── src/
-│   ├── Main.java
+│   ├── LibraryMain.java
+│   ├── Library.java
 │   ├── Book.java
 │   ├── Member.java
-│   ├── Library.java
-│   ├── IssueBook.java
-│   └── Utils.java
 │
 ├── README.md
 └── LICENSE
