@@ -21,8 +21,8 @@ A **Java-based Library Management System** that simplifies the management of boo
 
 - **Language:** Java
 - **Concepts:** Object-Oriented Programming (OOP)
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code
-- **JDK:** Java 17+ (Compatible with Java 11+)
+- **IDE:** IntelliJ IDEA / VS Code
+- **JDK:** Java 21+ (Compatible with Java 11+)
 
 ---
 
