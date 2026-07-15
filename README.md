@@ -56,11 +56,9 @@ LibraryManagementSystem/
 
 ## 🎯 Future Enhancements
 
-- GUI using Java Swing or JavaFX
-- Database integration (MySQL/PostgreSQL)
+- GUI using Java Swing or JavaFXl
 - User authentication
 - Fine calculation for late returns
-- Barcode/QR code support
 - Email notifications
 - Book reservation system
 - Admin dashboard
